@@ -1,3 +1,6 @@
+#we're using the GNU GPL license
+# (c) 2021 CodeSyth
+
 turn = 0
 h = 1
 s = 1
